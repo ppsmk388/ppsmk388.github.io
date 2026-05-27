@@ -22,7 +22,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ### 📢 News {#news}
 <div class="news-scroll" markdown="1">
 
-- **2026.03** 🎓 I will join **the University of Washington, Seattle** as a Ph.D. student in ECE (Fall 2026).
+- **2026.03** 🎓 I will join **the University of Washington, Seattle** as a Ph.D. student (Fall 2026).
 - **2025.12** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **[Qwen Team](https://github.com/QwenLM) (Foundation Model Group)** at Alibaba as a research intern. <span class="badge badge-accent">Contributing to the Qwen3.5 / 3.6 / 3.7 / ... model family</span>
 - **2025.11** 🎉 Our paper [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/pdf/2410.12869) is accepted to **AAAI 2026**. See you in Singapore (Jan 20–27)!
 - **2025.09** 🎉 Our paper [Unveiling the Learning Mind of Language Models](https://arxiv.org/pdf/2506.13464) is accepted to **NeurIPS 2025**. See you in San Diego (Dec 2–7)!
@@ -48,7 +48,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ---
 
 ## 📝 Publications {#publications}
-<p class="pub-hint">(* denotes equal contribution; = denotes students mentored by me. Click a direction to view representative papers.)</p>
+<p class="pub-hint">(* denotes equal contribution; = denotes students mentored by me.)</p>
 
 <div class="research-umbrella">
   <div class="research-umbrella-label">🌐 Data-Centric AI</div>
