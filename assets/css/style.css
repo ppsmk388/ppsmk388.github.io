@@ -486,6 +486,9 @@ img.brand-logo { display: inline-block; height: 1.05em; width: auto; max-width: 
 /* Qwen is a horizontal wordmark; give it more height so it's legible. */
 img.brand-logo[src*="qwen"] { height: 1.3em; max-width: 5.5em; vertical-align: -0.3em; }
 
+/* Ai2's wordmark is visually tall; keep it tucked into the text line. */
+img.brand-logo[src*="ai2"] { height: 0.82em; max-width: 3.6em; vertical-align: -0.08em; margin-right: 3px; }
+
 /* Sidebar table of contents (sits inside <header>, below profile card) */
 .site-toc { margin-top: 20px; padding: 14px 16px 12px; background: var(--card, #fffdf8); border: 1px solid rgba(var(--accent-rgb), 0.22); border-radius: 14px; box-shadow: 0 6px 18px rgba(36, 20, 61, 0.06); }
 
