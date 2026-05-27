@@ -48,7 +48,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ---
 
 ## 📝 Publications {#publications}
-<p class="pub-hint">(* denotes equal contribution. Click a direction to view representative papers.)</p>
+<p class="pub-hint">(* denotes equal contribution; = denotes students mentored by me. Click a direction to view representative papers.)</p>
 
 <div class="research-umbrella">
   <div class="research-umbrella-label">🌐 Data-Centric AI</div>
@@ -105,7 +105,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
   <ul class="paper-list">
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">The Strongest Teacher Is Not Always the Best Teacher: Student-Centric Answer Selection</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*, Linxin Song, Fengqing Jiang, Yutai Li, Zhengyu Chen, Zhihan Xiong, Yue Liu, Junhao Lin, Yao Su, Lijie Hu, Kaize Ding, Xiao Teng, Radha Poovendran.</div>
+      <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*=, Linxin Song, Fengqing Jiang, Yutai Li, Zhengyu Chen, Zhihan Xiong, Yue Liu, Junhao Lin, Yao Su, Lijie Hu, Kaize Ding, Xiao Teng, Radha Poovendran.</div>
       <div class="paper-venues"><span class="venue venue-submitted">Submitted to EMNLP 2026</span></div>
     </li>
     <li>
