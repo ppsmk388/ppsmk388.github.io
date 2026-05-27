@@ -104,7 +104,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 <div class="research-panel" data-panel="select" role="tabpanel">
   <ul class="paper-list">
     <li>
-      <span class="paper-title">When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection</span>
+      <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">The Strongest Teacher Is Not Always the Best Teacher: Student-Centric Answer Selection</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*, Linxin Song, Fengqing Jiang, Yutai Li, Zhengyu Chen, Zhihan Xiong, Yue Liu, Junhao Lin, Yao Su, Lijie Hu, Kaize Ding, Xiao Teng, Radha Poovendran.</div>
       <div class="paper-venues"><span class="venue venue-submitted">Submitted to EMNLP 2026</span></div>
     </li>
