@@ -5,7 +5,7 @@
 
 <div class="home-hero">
   <h3>Ph.D. @ University of Washington</h3>
-  <p>My research focuses on <strong>Data-Centric AI</strong> for <strong>Large Language Models (LLMs)</strong> and <strong>Large Multimodal Models</strong> (e.g., Image / Video).</p>
+  <p>My research focuses on <strong>Data-Centric AI</strong> for <strong>Large Language Models</strong> and <strong>Large Multimodal Models</strong> (e.g., Image / Video).</p>
 </div>
 
 
