@@ -145,7 +145,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ## 🎓 Education {#education}
 - **University of Washington, Seattle** — Doctor of Philosophy in Electrical and Computer Engineering
 - **Hong Kong University of Science and Technology** — Master of Philosophy in Artificial Intelligence
-- **Northeastern University** — Bachelor of Engineering in Computer Science and Technology
+- **Northeastern University** — Bachelor of Engineering in Computer Science and Engineering
 
 
 
