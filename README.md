@@ -107,7 +107,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*=, Linxin Song, Fengqing Jiang, Yuetai Li, Zhihan Xiong, Junhao Lin, Yue Liu, Yao Su, Lijie Hu, Kaize Ding, Teng Xiao, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-submitted">EMNLP 2026 (Main)</span></div>
+      <div class="paper-venues"><span class="venue venue-main">EMNLP 2026 </span></div>
     </li>
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2405.15476">Editable Concept Bottleneck Models</a>
