@@ -4,13 +4,13 @@
 
 
 <div class="home-hero">
-  <h3>Incoming Ph.D. @ University of Washington (Fall 2026)</h3>
-  <p>My research focuses on <strong>Data-Centric AI</strong> for <strong>Large Language Models (LLMs)</strong> and <strong>Large Multimodal Models (LMMs)</strong> (e.g., Image / Video).</p>
+  <h3>Ph.D. @ University of Washington</h3>
+  <p>My research focuses on <strong>Data-Centric AI</strong> for <strong>Large Language Models (LLMs)</strong> and <strong>Large Multimodal Models</strong> (e.g., Image / Video).</p>
 </div>
 
 
 
-I am an incoming Ph.D. student at the **University of Washington, Seattle** (Fall 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?hl=en&user=EEoNZ7NbVzMC&view_op=list_works&sortby=pubdate">Radha Poovendran</a>. I get my M.Phil. degree at the **Hong Kong University of Science and Technology** (Sep. 2023 – Jul. 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ">Hui Xiong</a>. I also work closely with <a class="person" href="https://scholar.google.com/citations?user=T_INUHUAAAAJ">Jieyu Zhang</a> at the **University of Washington**.
+I am a Ph.D. student at the **University of Washington, Seattle** (Fall 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?hl=en&user=EEoNZ7NbVzMC&view_op=list_works&sortby=pubdate">Radha Poovendran</a>. I get my M.Phil. degree at the **Hong Kong University of Science and Technology** (Sep. 2023 – Jul. 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ">Hui Xiong</a>. I also work closely with <a class="person" href="https://scholar.google.com/citations?user=T_INUHUAAAAJ">Jieyu Zhang</a> at the **University of Washington**.
 
 
 
@@ -22,13 +22,14 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ### 📢 News {#news}
 <div class="news-scroll" markdown="1">
 
-- **2026.03** 🎓 I will join **the University of Washington, Seattle** as a Ph.D. student (Fall 2026).
+- **2026.08** 🎉 Our paper [When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection](https://arxiv.org/abs/2605.26872) is accepted to **EMNLP 2026**. See you in Budapest (Oct 24–29)!
+- **2026.03** 🎓 I will join **the University of Washington, Seattle** as a Ph.D. student.
 - **2025.12** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **[Qwen Team](https://github.com/QwenLM) (Foundation Model Group)** at Alibaba as a research intern. <span class="badge badge-accent">Contributing to the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 ... model family</span>
 - **2025.11** 🎉 Our paper [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/pdf/2410.12869) is accepted to **AAAI 2026**. See you in Singapore (Jan 20–27)!
 - **2025.09** 🎉 Our paper [Unveiling the Learning Mind of Language Models](https://arxiv.org/pdf/2506.13464) is accepted to **NeurIPS 2025**. See you in San Diego (Dec 2–7)!
 - **2025.08** 🎉 Our paper [Explaining Length Bias in LLM-Based Preference Evaluations](https://arxiv.org/pdf/2407.01085) is accepted to **EMNLP 2025**. See you in Suzhou (Nov 4–9)!
 - **2025.05** 🎉 Our paper [Editable Concept Bottleneck Models](https://arxiv.org/pdf/2405.15476) is accepted to **ICML 2025**.
-- **2024.09** 🎉 Our paper [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](https://arxiv.org/pdf/2410.07074) is accepted to **EMNLP 2024 (Findings)**.
+- **2024.09** 🎉 Our paper [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](https://arxiv.org/pdf/2410.07074) is accepted to **EMNLP 2024**.
 - **2024.08** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia** as a research intern.
 - **2024.06** 🤝 I started a research internship at **University of Washington, Seattle** with Prof. Ranjay Krishna and Jieyu Zhang.
 - **2024.02** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** as a research intern, supervised by Dr. Zhengyu Chen.
@@ -71,7 +72,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2407.01085">Explaining Length Bias in LLM-Based Preference Evaluations</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>, Linxin Song, Jieyu Zhang, Zheyuan Xiao, Tianfu Wang, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2025 (Findings)</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
+      <div class="paper-venues"><span class="venue venue-main">EMNLP 2025</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
     </li>
   </ul>
 </div>
@@ -81,7 +82,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-submitted">Submitted to EMNLP 2026</span></div>
+      <div class="paper-venues"><span class="venue venue-submitted">Submitted to Neurips 2026</span></div>
     </li>
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2506.13464">Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study</a>
@@ -91,7 +92,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2407.01085">Explaining Length Bias in LLM-Based Preference Evaluations</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>, Linxin Song, Jieyu Zhang, Zheyuan Xiao, Tianfu Wang, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2025 (Findings)</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
+      <div class="paper-venues"><span class="venue venue-main">EMNLP 2025</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
     </li>
     <li>
       <a class="paper-title" href="https://arxiv.org/abs/2305.12224">On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training</a>
@@ -104,9 +105,9 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 <div class="research-panel" data-panel="select" role="tabpanel">
   <ul class="paper-list">
     <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">The Strongest Teacher Is Not Always the Best Teacher: Student-Centric Answer Selection</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*=, Linxin Song, Fengqing Jiang, Yutai Li, Zhengyu Chen, Zhihan Xiong, Yue Liu, Junhao Lin, Yao Su, Lijie Hu, Kaize Ding, Xiao Teng, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-submitted">Submitted to EMNLP 2026</span></div>
+      <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection</a>
+      <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*=, Linxin Song, Fengqing Jiang, Yuetai Li, Zhihan Xiong, Junhao Lin, Yue Liu, Yao Su, Lijie Hu, Kaize Ding, Teng Xiao, Radha Poovendran.</div>
+      <div class="paper-venues"><span class="venue venue-submitted">EMNLP 2026 (Main)</span></div>
     </li>
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2405.15476">Editable Concept Bottleneck Models</a>
@@ -116,7 +117,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2410.07074">Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>*, Yichuan Li*, Zhengyu Chen, Jingang Wang, Han Liu, Kyumin Lee, Kaize Ding.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2024 (Findings)</span></div>
+      <div class="paper-venues"><span class="venue venue-main">EMNLP 2024</span></div>
     </li>
     <li>
       <a class="paper-title" href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599414">Leveraging Relational Graph Neural Network for Transductive Model Ensemble</a>
@@ -142,7 +143,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ---
 
 ## 🎓 Education {#education}
-- **University of Washington, Seattle** — Doctor of Philosophy in Electrical and Computer Engineering *(Incoming)*
+- **University of Washington, Seattle** — Doctor of Philosophy in Electrical and Computer Engineering
 - **Hong Kong University of Science and Technology** — Master of Philosophy in Artificial Intelligence
 - **Northeastern University** — Bachelor of Engineering in Computer Science and Technology
 
