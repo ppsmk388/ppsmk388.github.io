@@ -154,8 +154,8 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ## 🏅 Professional Service {#service}
 
 **Conference Reviewer**
-+ **2027:** AAAI, ICLR
-+ **2026:** SIGKDD, AAAI, WWW, ICLR, CVPR, AISTATS, ACL
++ **2027:**  AAAI, SIGKDD, ICLR
++ **2026:** AAAI, SIGKDD, ICLR, AISTATS, NAACL, ICML, ACL, EMNLP, NeurIPS, WWW, CVPR
 + **2025:** AAAI, SIGKDD, ICLR, AISTATS, NAACL, ICML, ACL, EMNLP, NeurIPS
 + **2024:** AISTATS, CVPR, WWW, ICLR, COLING, ACL, ACM MM, SIGKDD, ECCV, EMNLP, NeurIPS
 + **2023:** SIGKDD, NeurIPS
