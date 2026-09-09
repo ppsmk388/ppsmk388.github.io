@@ -10,7 +10,7 @@
 
 
 
-I am a Ph.D. student at the **University of Washington, Seattle** (Fall 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?hl=en&user=EEoNZ7NbVzMC&view_op=list_works&sortby=pubdate">Radha Poovendran</a>. I get my M.Phil. degree at the **Hong Kong University of Science and Technology** (Sep. 2023 – Jul. 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ">Hui Xiong</a>. I also work closely with <a class="person" href="https://scholar.google.com/citations?user=T_INUHUAAAAJ">Jieyu Zhang</a> at the **University of Washington**.
+I am a Ph.D. student at the **University of Washington, Seattle**, advised by Prof. <a class="person" href="https://scholar.google.com/citations?hl=en&user=EEoNZ7NbVzMC&view_op=list_works&sortby=pubdate">Radha Poovendran</a>. I get my M.Phil. degree at the **Hong Kong University of Science and Technology** (Sep. 2023 – Jul. 2026), advised by Prof. <a class="person" href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ">Hui Xiong</a>. I also work closely with <a class="person" href="https://scholar.google.com/citations?user=T_INUHUAAAAJ">Jieyu Zhang</a> at the **University of Washington**.
 
 
 
