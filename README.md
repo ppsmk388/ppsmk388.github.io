@@ -119,7 +119,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 <ul class="experience-list">
   <li>
-    <div class="experience-heading"><strong>Alibaba</strong><span class="experience-date">2025.12 – 2027.03</span></div>
+    <div class="experience-heading"><strong>Alibaba</strong><span class="experience-date">2025.12 – Now</span></div>
     <div class="experience-details"><a href="https://github.com/QwenLM">Qwen Team</a> · Foundation Model Group · Research Intern</div>
     <div class="experience-highlight">Contributed to the development of the Qwen 3.5/3.6/3.7/3.8/3.9/4.0 model family.</div>
   </li>
