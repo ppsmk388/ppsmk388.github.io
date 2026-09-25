@@ -51,89 +51,53 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ## 📝 Publications {#publications}
 <p class="pub-hint">(* denotes equal contribution; = denotes students mentored by me.)</p>
 
-<div class="research-umbrella">
-  <div class="research-umbrella-label">🌐 Data-Centric AI</div>
-  <div class="research-tabs" role="tablist">
-    <button type="button" class="research-tab is-active" data-tab="pref" role="tab" aria-selected="true">⚖️ Preference Data</button>
-    <button type="button" class="research-tab" data-tab="dataset" role="tab" aria-selected="false">🗂️ Dataset Construction</button>
-    <button type="button" class="research-tab" data-tab="select" role="tab" aria-selected="false">🔍 Data Selection</button>
-  </div>
-</div>
-
-<div class="research-panels">
-
-<div class="research-panel is-active" data-panel="pref" role="tabpanel">
-  <ul class="paper-list">
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2410.12869">Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Jieyu Zhang, Zhihan Xiong, Alexander Ratner, Kaize Ding, Ranjay Krishna.</div>
-      <div class="paper-venues"><span class="venue venue-main">AAAI 2026</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2407.01085">Explaining Length Bias in LLM-Based Preference Evaluations</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Linxin Song, Jieyu Zhang, Zheyuan Xiao, Tianfu Wang, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2025</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
-    </li>
-  </ul>
-</div>
-
-<div class="research-panel" data-panel="select" role="tabpanel">
-  <ul class="paper-list">
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*=, Linxin Song, Fengqing Jiang, Yuetai Li, Zhihan Xiong, Junhao Lin, Yue Liu, Yao Su, Lijie Hu, Kaize Ding, Teng Xiao, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2026 </span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2405.15476">Editable Concept Bottleneck Models</a>
-      <div class="paper-authors">Lijie Hu*, Chenyang Ren*, <u>Zhengyu Hu</u>*, Hongbin Lin, Cheng-Long Wang, Hui Xiong, Di Wang.</div>
-      <div class="paper-venues"><span class="venue venue-main">ICML 2025</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2410.07074">Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>*, Yichuan Li*, Zhengyu Chen, Jingang Wang, Han Liu, Kyumin Lee, Kaize Ding.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2024</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599414">Leveraging Relational Graph Neural Network for Transductive Model Ensemble</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Jieyu Zhang, Haonan Wang, Siwei Liu, Shangsong Liang.</div>
-      <div class="paper-venues"><span class="venue venue-main">SIGKDD 2023</span></div>
-    </li>
-  </ul>
-</div>
-
-<div class="research-panel" data-panel="dataset" role="tabpanel">
-  <ul class="paper-list">
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2026</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2506.13464">Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Seraphina Zhang, Tianfu Wang, Nicholas Jing Yuan, Xing Xie, Hui Xiong.</div>
-      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2025</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/abs/2305.12224">On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training</a>
-      <div class="paper-authors">Jieyu Zhang*, Bohan Wang*, <u>Zhengyu Hu</u>, Pang Wei Koh, Alexander Ratner.</div>
-      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2023</span></div>
-    </li>
-  </ul>
-</div>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
+<ul class="paper-list">
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
+    <div class="paper-tags"><span class="venue venue-main">NeurIPS 2026</span><span class="paper-category">Dataset Construction</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2605.26872">When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>*, Zheyuan Xiao*=, Linxin Song, Fengqing Jiang, Yuetai Li, Zhihan Xiong, Junhao Lin, Yue Liu, Yao Su, Lijie Hu, Kaize Ding, Teng Xiao, Radha Poovendran.</div>
+    <div class="paper-tags"><span class="venue venue-main">EMNLP 2026</span><span class="paper-category">Data Selection</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2410.12869">Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>, Jieyu Zhang, Zhihan Xiong, Alexander Ratner, Kaize Ding, Ranjay Krishna.</div>
+    <div class="paper-tags"><span class="venue venue-main">AAAI 2026</span><span class="venue venue-workshop">DATA-FM@ICLR 2025</span><span class="paper-category">Preference Data</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2506.13464">Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Seraphina Zhang, Tianfu Wang, Nicholas Jing Yuan, Xing Xie, Hui Xiong.</div>
+    <div class="paper-tags"><span class="venue venue-main">NeurIPS 2025</span><span class="paper-category">Dataset Construction</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2407.01085">Explaining Length Bias in LLM-Based Preference Evaluations</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>, Linxin Song, Jieyu Zhang, Zheyuan Xiao, Tianfu Wang, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.</div>
+    <div class="paper-tags"><span class="venue venue-main">EMNLP 2025</span><span class="venue venue-workshop">DATA-FM@ICLR 2025</span><span class="paper-category">Preference Data</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2405.15476">Editable Concept Bottleneck Models</a>
+    <div class="paper-authors">Lijie Hu*, Chenyang Ren*, <u>Zhengyu Hu</u>*, Hongbin Lin, Cheng-Long Wang, Hui Xiong, Di Wang.</div>
+    <div class="paper-tags"><span class="venue venue-main">ICML 2025</span><span class="venue venue-workshop">DATA-FM@ICLR 2025</span><span class="paper-category">Data Selection</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2410.07074">Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>*, Yichuan Li*, Zhengyu Chen, Jingang Wang, Han Liu, Kyumin Lee, Kaize Ding.</div>
+    <div class="paper-tags"><span class="venue venue-main">EMNLP 2024</span><span class="paper-category">Data Selection</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://arxiv.org/abs/2305.12224">On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training</a>
+    <div class="paper-authors">Jieyu Zhang*, Bohan Wang*, <u>Zhengyu Hu</u>, Pang Wei Koh, Alexander Ratner.</div>
+    <div class="paper-tags"><span class="venue venue-main">NeurIPS 2023</span><span class="paper-category">Dataset Construction</span></div>
+  </li>
+  <li>
+    <a class="paper-title" href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599414">Leveraging Relational Graph Neural Network for Transductive Model Ensemble</a>
+    <div class="paper-authors"><u>Zhengyu Hu</u>, Jieyu Zhang, Haonan Wang, Siwei Liu, Shangsong Liang.</div>
+    <div class="paper-tags"><span class="venue venue-main">SIGKDD 2023</span><span class="paper-category">Data Selection</span></div>
+  </li>
+</ul>
 
 ---
 
@@ -149,7 +113,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 ## 🏅 Professional Service {#service}
 
 **Conference Reviewer**
-+ **2027:** AAAI, SIGKDD, ICLR
++ **2027:** AAAI, SIGKDD, ICLR, AISTATS, WWW
 + **2026:** AAAI, SIGKDD, ICLR, AISTATS, NAACL, ICML, ACL, EMNLP, NeurIPS, WWW, CVPR
 + **2025:** AAAI, SIGKDD, ICLR, AISTATS, NAACL, ICML, ACL, EMNLP, NeurIPS
 + **2024:** AISTATS, CVPR, WWW, ICLR, COLING, ACL, ACM MM, SIGKDD, ECCV, EMNLP, NeurIPS
