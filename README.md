@@ -77,26 +77,6 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
   </ul>
 </div>
 
-<div class="research-panel" data-panel="dataset" role="tabpanel">
-  <ul class="paper-list">
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2026</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2506.13464">Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Seraphina Zhang, Tianfu Wang, Nicholas Jing Yuan, Xing Xie, Hui Xiong.</div>
-      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2025</span></div>
-    </li>
-    <li>
-      <a class="paper-title" href="https://arxiv.org/abs/2305.12224">On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training</a>
-      <div class="paper-authors">Jieyu Zhang*, Bohan Wang*, <u>Zhengyu Hu</u>, Pang Wei Koh, Alexander Ratner.</div>
-      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2023</span></div>
-    </li>
-  </ul>
-</div>
-
 <div class="research-panel" data-panel="select" role="tabpanel">
   <ul class="paper-list">
     <li>
@@ -118,6 +98,26 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
       <a class="paper-title" href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599414">Leveraging Relational Graph Neural Network for Transductive Model Ensemble</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>, Jieyu Zhang, Haonan Wang, Siwei Liu, Shangsong Liang.</div>
       <div class="paper-venues"><span class="venue venue-main">SIGKDD 2023</span></div>
+    </li>
+  </ul>
+</div>
+
+<div class="research-panel" data-panel="dataset" role="tabpanel">
+  <ul class="paper-list">
+    <li>
+      <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
+      <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
+      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2026</span></div>
+    </li>
+    <li>
+      <a class="paper-title" href="https://arxiv.org/pdf/2506.13464">Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study</a>
+      <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Seraphina Zhang, Tianfu Wang, Nicholas Jing Yuan, Xing Xie, Hui Xiong.</div>
+      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2025</span></div>
+    </li>
+    <li>
+      <a class="paper-title" href="https://arxiv.org/abs/2305.12224">On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training</a>
+      <div class="paper-authors">Jieyu Zhang*, Bohan Wang*, <u>Zhengyu Hu</u>, Pang Wei Koh, Alexander Ratner.</div>
+      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2023</span></div>
     </li>
   </ul>
 </div>
