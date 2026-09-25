@@ -25,7 +25,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
 - **2026.09** 🎉 Our paper [Population-Aligned Persona Generation for LLM-based Social Simulation](https://arxiv.org/pdf/2509.10127) is accepted to **Neurips 2026**. See you in Sydney (Dec 6 - 12)!
 - **2026.08** 🎉 Our paper [When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection](https://arxiv.org/abs/2605.26872) is accepted to **EMNLP 2026**. See you in Budapest (Oct 24–29)!
 - **2026.03** 🎓 I will join **the University of Washington, Seattle** as a Ph.D. student.
-- **2025.12** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **[Qwen Team](https://github.com/QwenLM) (Foundation Model Group)** at Alibaba as a research intern. <span class="badge badge-accent">Contributing to the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 ... model family</span>
+- **2025.12** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **[Qwen Team](https://github.com/QwenLM) (Foundation Model Group)** at Alibaba as a research intern. <span class="badge badge-accent">Contributing to the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 / 4.0 ... model family</span>
 - **2025.11** 🎉 Our paper [Towards Acyclic Preference Evaluation of Language Models via Multiple Evaluators](https://arxiv.org/pdf/2410.12869) is accepted to **AAAI 2026**. See you in Singapore (Jan 20–27)!
 - **2025.09** 🎉 Our paper [Unveiling the Learning Mind of Language Models](https://arxiv.org/pdf/2506.13464) is accepted to **NeurIPS 2025**. See you in San Diego (Dec 2–7)!
 - **2025.08** 🎉 Our paper [Explaining Length Bias in LLM-Based Preference Evaluations](https://arxiv.org/pdf/2407.01085) is accepted to **EMNLP 2025**. See you in Suzhou (Nov 4–9)!
