@@ -55,8 +55,8 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
   <div class="research-umbrella-label">🌐 Data-Centric AI</div>
   <div class="research-tabs" role="tablist">
     <button type="button" class="research-tab is-active" data-tab="pref" role="tab" aria-selected="true">⚖️ Preference Data</button>
-    <button type="button" class="research-tab" data-tab="select" role="tab" aria-selected="false">🔍 Data Selection</button>
     <button type="button" class="research-tab" data-tab="dataset" role="tab" aria-selected="false">🗂️ Dataset Construction</button>
+    <button type="button" class="research-tab" data-tab="select" role="tab" aria-selected="false">🔍 Data Selection</button>
   </div>
 </div>
 
