@@ -25,8 +25,8 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 - **2025.09** 🎉 Our paper [Unveiling the Learning Mind of Language Models](https://arxiv.org/pdf/2506.13464) is accepted to **NeurIPS 2025**. See you in San Diego (Dec 2–7)!
 - **2025.08** 🎉 Our paper [Explaining Length Bias in LLM-Based Preference Evaluations](https://arxiv.org/pdf/2407.01085) is accepted to **EMNLP 2025**. See you in Suzhou (Nov 4–9)!
 - **2025.05** 🎉 Our paper [Editable Concept Bottleneck Models](https://arxiv.org/pdf/2405.15476) is accepted to **ICML 2025**.
+- **2024.11** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia** as a research intern.
 - **2024.09** 🎉 Our paper [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](https://arxiv.org/pdf/2410.07074) is accepted to **EMNLP 2024**.
-- **2024.08** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia** as a research intern.
 - **2024.06** 🤝 I started a research internship at **University of Washington, Seattle** with Prof. Ranjay Krishna and Jieyu Zhang.
 - **2024.02 – 2024.11** 🧑‍💻 I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** as a research intern, supervised by Dr. Zhengyu Chen.
 - **2024.01** 🤝 I started a research internship at **Northwestern University** with Prof. Kaize Ding.
@@ -124,7 +124,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
     <div class="experience-highlight">Contributed to the development of the Qwen 3.5/3.6/3.7/3.8/3.9/4.0 model family.</div>
   </li>
   <li>
-    <div class="experience-heading"><strong>Microsoft Research Lab</strong><span class="experience-date">2024.08 – 2025.12</span></div>
+    <div class="experience-heading"><strong>Microsoft Research Lab</strong><span class="experience-date">2024.11 – 2025.12</span></div>
     <div class="experience-details">Social Computing Group · Research Intern</div>
     <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ&amp;hl=en">Xing Xie</a>, Dr. <a href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ&amp;hl=en">Jianxun Lian</a>.</div>
   </li>
