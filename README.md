@@ -15,13 +15,14 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 
 
-I am currently a research intern at <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **Qwen Team, Foundation Model Group**. <span class="badge badge-accent">Working for the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 ... series</span> Previously, I interned at <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia (MSRA)**, supervised by Dr. <a class="person" href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ">Xing Xie</a>, Dr. <a class="person" href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a class="person" href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ">Jianxun Lian</a>. Before that, I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** under the supervision of Dr. <a class="person" href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a class="person" href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ">Zhengyu Chen</a>.
+I am currently a research intern at <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **Qwen Team, Foundation Model Group**. <span class="badge badge-accent">Working for the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 / 4.0... series</span> Previously, I interned at <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia (MSRA)**, supervised by Dr. <a class="person" href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ">Xing Xie</a>, Dr. <a class="person" href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a class="person" href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ">Jianxun Lian</a>. Before that, I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** under the supervision of Dr. <a class="person" href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a class="person" href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ">Zhengyu Chen</a>.
 
 
 
 ### 📢 News {#news}
 <div class="news-scroll" markdown="1">
 
+- **2026.09** 🎉 Our paper [Population-Aligned Persona Generation for LLM-based Social Simulation](https://arxiv.org/pdf/2509.10127) is accepted to **Neurips 2026**. See you in Sydney (Dec 6 - 12)!
 - **2026.08** 🎉 Our paper [When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection](https://arxiv.org/abs/2605.26872) is accepted to **EMNLP 2026**. See you in Budapest (Oct 24–29)!
 - **2026.03** 🎓 I will join **the University of Washington, Seattle** as a Ph.D. student.
 - **2025.12** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **[Qwen Team](https://github.com/QwenLM) (Foundation Model Group)** at Alibaba as a research intern. <span class="badge badge-accent">Contributing to the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 ... model family</span>
@@ -82,7 +83,7 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
       <div class="paper-authors"><u>Zhengyu Hu</u>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
-      <div class="paper-venues"><span class="venue venue-submitted">Submitted to Neurips 2026</span></div>
+      <div class="paper-venues"><span class="venue venue-main">NeurIPS 2026</span></div>
     </li>
     <li>
       <a class="paper-title" href="https://arxiv.org/pdf/2506.13464">Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study</a>
