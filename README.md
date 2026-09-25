@@ -28,7 +28,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 - **2024.09** 🎉 Our paper [Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](https://arxiv.org/pdf/2410.07074) is accepted to **EMNLP 2024**.
 - **2024.08** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia** as a research intern.
 - **2024.06** 🤝 I started a research internship at **University of Washington, Seattle** with Prof. Ranjay Krishna and Jieyu Zhang.
-- **2024.02** 🧑‍💻 I joined <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** as a research intern, supervised by Dr. Zhengyu Chen.
+- **2024.02 – 2024.11** 🧑‍💻 I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** as a research intern, supervised by Dr. Zhengyu Chen.
 - **2024.01** 🤝 I started a research internship at **Northwestern University** with Prof. Kaize Ding.
 - **2023.09** 🎉 Our paper [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224) is accepted to **NeurIPS 2023**.
 - **2023.09** 🎓 I started my **M.Phil. in AI at HKUST**, advised by Prof. Hui Xiong.
@@ -129,7 +129,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
     <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ&amp;hl=en">Xing Xie</a>, Dr. <a href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ&amp;hl=en">Jianxun Lian</a>.</div>
   </li>
   <li>
-    <div class="experience-heading"><strong>Meituan Tech</strong><span class="experience-date">2024.02 – 2024.08</span></div>
+    <div class="experience-heading"><strong>Meituan Tech</strong><span class="experience-date">2024.02 – 2024.11</span></div>
     <div class="experience-details">Foundation Model Group · Research Intern</div>
     <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ&amp;hl=en&amp;oi=ao">Zhengyu Chen</a>.</div>
   </li>
