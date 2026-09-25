@@ -115,6 +115,34 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 ---
 
+## 💼 Industrial Experience {#experience}
+
+<ul class="experience-list">
+  <li>
+    <div class="experience-heading"><strong>Alibaba</strong><span class="experience-date">2026.09 – 2027.03</span></div>
+    <div class="experience-details"><a href="https://github.com/QwenLM">Qwen Team</a> · Foundation Model Group · Qwen-VL Team · Research Intern</div>
+    <div class="experience-focus">Visualize Coding</div>
+  </li>
+  <li>
+    <div class="experience-heading"><strong>Alibaba</strong><span class="experience-date">2025.12 – 2026.09</span></div>
+    <div class="experience-details"><a href="https://github.com/QwenLM">Qwen Team</a> · Foundation Model Group · Post-training Team · Research Intern</div>
+    <div class="experience-focus">Data Synthesis and Curation</div>
+    <div class="experience-highlight">Contributed to the development of the Qwen 3.5/3.6/3.7/3.8/3.9/4.0 model family.</div>
+  </li>
+  <li>
+    <div class="experience-heading"><strong>Microsoft Research Lab</strong><span class="experience-date">2024.08 – 2025.12</span></div>
+    <div class="experience-details">Social Computing Group · Research Intern</div>
+    <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ&amp;hl=en">Xing Xie</a>, Dr. <a href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ&amp;hl=en">Jianxun Lian</a>.</div>
+  </li>
+  <li>
+    <div class="experience-heading"><strong>Meituan Tech</strong><span class="experience-date">2024.02 – 2024.08</span></div>
+    <div class="experience-details">Foundation Model Group · Research Intern</div>
+    <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ&amp;hl=en&amp;oi=ao">Zhengyu Chen</a>.</div>
+  </li>
+</ul>
+
+---
+
 ## 🏅 Professional Service {#service}
 
 **Conference Reviewer**
