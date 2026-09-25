@@ -91,11 +91,6 @@ I am currently a research intern at <img class="brand-logo" src="/assets/img/log
       <div class="paper-venues"><span class="venue venue-main">NeurIPS 2025</span></div>
     </li>
     <li>
-      <a class="paper-title" href="https://arxiv.org/pdf/2407.01085">Explaining Length Bias in LLM-Based Preference Evaluations</a>
-      <div class="paper-authors"><u>Zhengyu Hu</u>, Linxin Song, Jieyu Zhang, Zheyuan Xiao, Tianfu Wang, Nicholas Jing Yuan, Jianxun Lian, Kaize Ding, Hui Xiong.</div>
-      <div class="paper-venues"><span class="venue venue-main">EMNLP 2025</span> <span class="venue venue-workshop">DATA-FM@ICLR 2025</span></div>
-    </li>
-    <li>
       <a class="paper-title" href="https://arxiv.org/abs/2305.12224">On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training</a>
       <div class="paper-authors">Jieyu Zhang*, Bohan Wang*, <u>Zhengyu Hu</u>, Pang Wei Koh, Alexander Ratner.</div>
       <div class="paper-venues"><span class="venue venue-main">NeurIPS 2023</span></div>
