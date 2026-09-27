@@ -53,11 +53,22 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
     <span class="research-category">⚖️ Preference Data</span>
     <span class="research-category">🗂️ Dataset Construction</span>
     <span class="research-category">🔍 Data Selection</span>
+  </div>
+</div>
+
+<div class="research-umbrella">
+  <div class="research-umbrella-label">🤖 Agentic System</div>
+  <div class="research-categories">
     <span class="research-category">🧭 Long-Horizon Agents</span>
   </div>
 </div>
 
 <ul class="paper-list">
+  <li>
+    <a class="paper-title" href="https://rsi-first-exam.rsi-anything.workers.dev/">OpenRSI-Index</a>
+    <div class="paper-authors"><strong><u>Zhengyu Hu</u></strong> · Core Contributor</div>
+    <div class="paper-tags"><span class="venue venue-workshop">Open Source Project</span><span class="paper-category">🧭 Long-Horizon Agents</span></div>
+  </li>
   <li>
     <a class="paper-title" href="https://arxiv.org/pdf/2607.12227">Rethinking the Evaluation of Harness Evolution for Agents</a>
     <div class="paper-authors">Yike Wang*, Huaisheng Zhu*, <strong><u>Zhengyu Hu</u></strong>, Yige Yuan, Zhengyu Chen, Shakti Senthil, Hannaneh Hajishirzi, Yulia Tsvetkov, Noah A. Smith, Pradeep Dasigi, Teng Xiao.</div>
@@ -144,18 +155,6 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 ---
 -->
-
-## 🧩 Open Source Projects {#projects}
-
-<ul class="paper-list">
-  <li>
-    <a class="paper-title" href="https://rsi-first-exam.rsi-anything.workers.dev/">OpenRSI-Index</a>
-    <div class="paper-authors"><strong><u>Zhengyu Hu</u></strong> · Core Contributor</div>
-    <div class="paper-tags"><span class="venue venue-workshop">Open Source Project</span><span class="paper-category">🧭 Long-Horizon Agents</span></div>
-  </li>
-</ul>
-
----
 
 ## 🏅 Professional Service {#service}
 
