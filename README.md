@@ -4,6 +4,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 
 
+<!--
 ### 📢 News {#news}
 <div class="news-scroll" markdown="1">
 
@@ -27,6 +28,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 
 </div>
+-->
 
 
 
