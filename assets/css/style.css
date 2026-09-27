@@ -452,12 +452,6 @@ footer { display: none; width: 270px; float: left; position: fixed; bottom: 50px
   .downloads { width: 99%; }
   .downloads li, .downloads li + li + li { width: 33%; } }
 /* README custom blocks */
-.home-hero { border: 1px solid rgba(var(--accent-rgb), 0.24); background: linear-gradient(120deg, rgba(var(--accent-rgb), 0.12), rgba(var(--accent-2-rgb), 0.16)); border-radius: 16px; padding: 16px 18px; margin: 6px 0 24px; }
-
-.home-hero h3 { margin: 0 0 6px; font-family: "IBM Plex Serif", Georgia, serif; font-size: 1.05rem; }
-
-.home-hero p { margin: 0; color: #3b2c61; font-size: 0.92rem; }
-
 .home-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 
 .home-badges span { font-size: 0.82rem; font-weight: 600; border-radius: 999px; padding: 4px 10px; color: #3a285f; background: rgba(255, 255, 255, 0.9); border: 1px solid rgba(var(--accent-rgb), 0.24); }
@@ -603,7 +597,7 @@ html[data-theme="fresh"] header { background: linear-gradient(160deg, rgba(255, 
 
 html[data-theme="fresh"] section { border-color: rgba(var(--accent-rgb), 0.18); background: linear-gradient(180deg, #ffffff, #f7fefb); box-shadow: 0 14px 38px rgba(15, 23, 42, 0.08); }
 
-html[data-theme="fresh"] .home-hero p, html[data-theme="fresh"] .home-badges span, html[data-theme="fresh"] summary { color: var(--ink-1); }
+html[data-theme="fresh"] .home-badges span, html[data-theme="fresh"] summary { color: var(--ink-1); }
 
 html[data-theme="fresh"] details { border-color: rgba(var(--accent-rgb), 0.2); }
 
