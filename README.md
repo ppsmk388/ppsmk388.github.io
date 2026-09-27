@@ -1,6 +1,6 @@
 # Hi! I am Zhengyu Hu🤗
 
-I am a Ph.D. student at the **University of Washington, Seattle**, advised by Prof. <a class="person" href="https://scholar.google.com/citations?hl=en&user=EEoNZ7NbVzMC&view_op=list_works&sortby=pubdate">Radha Poovendran</a>. I get my M.Phil. degree at the **Hong Kong University of Science and Technology**, advised by Prof. <a class="person" href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ">Hui Xiong</a>. I am currently a research intern at <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **Qwen Team, Foundation Model Group**. <span class="badge badge-accent">Working for the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 / 4.0... series</span> Previously, I interned at <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia (MSRA)**, supervised by Dr. <a class="person" href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ">Xing Xie</a>, Dr. <a class="person" href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a class="person" href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ">Jianxun Lian</a>. Before that, I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** under the supervision of Dr. <a class="person" href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a class="person" href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ">Zhengyu Chen</a>. My research focuses on <strong>Data-Centric AI</strong>, <strong>Grounded Vision-Language Models</strong>, and <strong>Agentic Systems</strong>, spanning <strong>Large Language Models</strong> and <strong>Large Multimodal Models</strong> (e.g., image and video).
+I am a Ph.D. student at the **University of Washington, Seattle**, advised by Prof. <a class="person" href="https://scholar.google.com/citations?hl=en&user=EEoNZ7NbVzMC&view_op=list_works&sortby=pubdate">Radha Poovendran</a>. I get my M.Phil. degree at the **Hong Kong University of Science and Technology**, advised by Prof. <a class="person" href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ">Hui Xiong</a>. I am currently a research intern at <img class="brand-logo" src="/assets/img/logos/qwen.png" alt="Qwen"> **Qwen Team, Foundation Model Group**. <span class="badge badge-accent">Working for the Qwen3.5 / 3.6 / 3.7 / 3.8 / 3.9 / 4.0... series</span> Previously, I interned at <img class="brand-logo" src="/assets/img/logos/microsoft.svg" alt="Microsoft"> **Microsoft Research Asia (MSRA)**, supervised by Dr. <a class="person" href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ">Xing Xie</a>, Dr. <a class="person" href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a class="person" href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ">Jianxun Lian</a>. Before that, I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** under the supervision of Dr. <a class="person" href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a class="person" href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ">Zhengyu Chen</a>. My research focuses on <strong>Data-Centric AI</strong> and <strong>Agentic Systems</strong> for <strong>Large Language Models</strong> and <strong>Large Multimodal Models</strong> (e.g., image and video).
 
 
 
@@ -44,10 +44,6 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
     <span class="research-category">🗂️ Dataset Construction</span>
     <span class="research-category">🔍 Data Selection</span>
   </div>
-</div>
-
-<div class="research-umbrella research-umbrella-standalone">
-  <div class="research-umbrella-label">👁️ Grounded Vision-Language Models</div>
 </div>
 
 <div class="research-umbrella">
@@ -116,39 +112,6 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 </ul>
 
 ---
-
-<!--
-## 🎓 Education {#education}
-- **University of Washington, Seattle** — Doctor of Philosophy in Electrical and Computer Engineering
-- **Hong Kong University of Science and Technology** — Master of Philosophy in Artificial Intelligence
-- **Northeastern University** — Bachelor of Engineering in Computer Science and Engineering
-
-
-
----
-
-## 💼 Industrial Experience {#experience}
-
-<ul class="experience-list">
-  <li>
-    <div class="experience-heading"><strong>Alibaba</strong><span class="experience-date">2025.12 – Now</span></div>
-    <div class="experience-details"><a href="https://github.com/QwenLM">Qwen Team</a> · Foundation Model Group · Research Intern</div>
-    <div class="experience-highlight">Contributed to the development of the Qwen 3.5/3.6/3.7/3.8/3.9/4.0 model family.</div>
-  </li>
-  <li>
-    <div class="experience-heading"><strong>Microsoft Research Lab</strong><span class="experience-date">2024.11 – 2025.12</span></div>
-    <div class="experience-details">Social Computing Group · Research Intern</div>
-    <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=5EQfAFIAAAAJ&amp;hl=en">Xing Xie</a>, Dr. <a href="https://scholar.google.com/citations?user=B-d1EHAAAAAJ">Nicholas Jing Yuan</a>, and Dr. <a href="https://scholar.google.com/citations?user=tSq7dIkAAAAJ&amp;hl=en">Jianxun Lian</a>.</div>
-  </li>
-  <li>
-    <div class="experience-heading"><strong>Meituan Tech</strong><span class="experience-date">2024.02 – 2024.11</span></div>
-    <div class="experience-details">Foundation Model Group · Research Intern</div>
-    <div class="experience-mentors">Supervised by Dr. <a href="https://scholar.google.com/citations?user=janU39IAAAAJ">Jingang Wang</a> and Dr. <a href="https://scholar.google.com/citations?user=PqrvpbkAAAAJ&amp;hl=en&amp;oi=ao">Zhengyu Chen</a>.</div>
-  </li>
-</ul>
-
----
--->
 
 ## 🏅 Professional Service {#service}
 
