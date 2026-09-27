@@ -106,6 +106,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 ---
 
+<!--
 ## 🎓 Education {#education}
 - **University of Washington, Seattle** — Doctor of Philosophy in Electrical and Computer Engineering
 - **Hong Kong University of Science and Technology** — Master of Philosophy in Artificial Intelligence
@@ -136,6 +137,7 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 </ul>
 
 ---
+-->
 
 ## 🏅 Professional Service {#service}
 
@@ -157,5 +159,3 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 As Saint Augustine once said, "The world is a book, and those who do not travel read only one page."
 
 My dream is to travel around the world one day!
-
-<sub><a href="https://clustrmaps.com/site/1c1ww" title="Visit tracker">visitor map</a></sub>

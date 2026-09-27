@@ -586,6 +586,8 @@ img.brand-logo[src*="ai2"] { height: 0.82em; max-width: 3.6em; vertical-align: -
 
 .experience-highlight { margin-top: 2px; color: #b91c1c; font-weight: 600; }
 
+.visitor-map { margin-top: 24px; overflow-x: auto; text-align: center; }
+
 /* Fresh theme: override remaining hardcoded purple-ish text colors. */
 html[data-theme="fresh"] h2 { color: var(--ink-1); }
 
