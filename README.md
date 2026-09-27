@@ -123,12 +123,3 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 **Journal Reviewer**
 + DMLR, TNNLS, TPAMI, ACM TSC
-
-
----
-
-## 🚀 Dream {#dream}
-
-As Saint Augustine once said, "The world is a book, and those who do not travel read only one page."
-
-My dream is to travel around the world one day!
