@@ -53,10 +53,16 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
     <span class="research-category">⚖️ Preference Data</span>
     <span class="research-category">🗂️ Dataset Construction</span>
     <span class="research-category">🔍 Data Selection</span>
+    <span class="research-category">🧭 Long-Horizon Agents</span>
   </div>
 </div>
 
 <ul class="paper-list">
+  <li>
+    <a class="paper-title" href="https://arxiv.org/pdf/2607.12227">Rethinking the Evaluation of Harness Evolution for Agents</a>
+    <div class="paper-authors">Yike Wang*, Huaisheng Zhu*, <strong><u>Zhengyu Hu</u></strong>, Yige Yuan, Zhengyu Chen, Shakti Senthil, Hannaneh Hajishirzi, Yulia Tsvetkov, Noah A. Smith, Pradeep Dasigi, Teng Xiao.</div>
+    <div class="paper-tags"><span class="venue venue-submitted">Submitted to ICLR 2027</span><span class="venue venue-workshop">Accepted at LLA@COLM 2026</span><span class="paper-category">🧭 Long-Horizon Agents</span></div>
+  </li>
   <li>
     <a class="paper-title" href="https://arxiv.org/pdf/2509.10127">Population-Aligned Persona Generation for LLM-based Social Simulation</a>
     <div class="paper-authors"><strong><u>Zhengyu Hu</u></strong>, Jianxun Lian, Zheyuan Xiao, Tianfu Wang, Xiao Teng, Fengqing Jiang, Max Xiong, Yuxuan Lei, Kaize Ding, Ziang Xiao, Nicholas Jing Yuan, Xing Xie, Radha Poovendran.</div>
@@ -138,6 +144,18 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 ---
 -->
+
+## 🧩 Open Source Projects {#projects}
+
+<ul class="paper-list">
+  <li>
+    <a class="paper-title" href="https://rsi-first-exam.rsi-anything.workers.dev/">OpenRSI-Index</a>
+    <div class="paper-authors"><strong><u>Zhengyu Hu</u></strong> · Core Contributor</div>
+    <div class="paper-tags"><span class="venue venue-workshop">Open Source Project</span><span class="paper-category">🧭 Long-Horizon Agents</span></div>
+  </li>
+</ul>
+
+---
 
 ## 🏅 Professional Service {#service}
 
