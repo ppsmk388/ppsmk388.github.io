@@ -4,7 +4,6 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 
 
 
-<!--
 ### 📢 News {#news}
 <div class="news-scroll" markdown="1">
 
@@ -22,13 +21,11 @@ I am a Ph.D. student at the **University of Washington, Seattle**, advised by Pr
 - **2024.02 – 2024.11** 🧑‍💻 I interned at <img class="brand-logo" src="/assets/img/logos/meituan.svg" alt="Meituan"> **Meituan (Foundation Model Group)** as a research intern, supervised by Dr. Zhengyu Chen.
 - **2024.01** 🤝 I started a research internship at **Northwestern University** with Prof. Kaize Ding.
 - **2023.09** 🎉 Our paper [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224) is accepted to **NeurIPS 2023**.
-- **2023.09** 🎓 I started my **M.Phil. in AI at HKUST**, advised by Prof. Hui Xiong.
 
 
 
 
 </div>
--->
 
 
 
